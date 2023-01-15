@@ -19,4 +19,4 @@ Device Configuration for Motorola G22 (HAWAIIP)
 
 ## Device picture
 
-![Motorola G22](https://telegra.ph/file/bf123b83b31f2b39840e1.jpg "Motorola G22")
+![Motorola G22](https://telegra.ph/file/928aa0b2b297eec2ebefe.png "Motorola G22")
